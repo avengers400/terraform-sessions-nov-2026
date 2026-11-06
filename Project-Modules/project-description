@@ -1,0 +1,5 @@
+1.Create a VPC
+2.Get the vpc id
+3.Create a EC2 in the same vpc created above
+
+
