@@ -1,0 +1,1 @@
+ec2 creation is done and the public ip is 34.228.22.10  

@@ -1,0 +1,2 @@
+used to execute scripts or commands on local machine or a remote resouce(e.g ec2) after
+terraform creates or destroys infrastructure
